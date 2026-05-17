@@ -1,5 +1,17 @@
-node_modules/
+# Dependency directories
+Bridge/server/node_modules/
+Analyzer/smartloganalyzer/node_modules/
+Library/node_modules/
+
+# Build and compilation outputs
 out/
 dist/
-*.log
+build/
+
+# IDE files and testing garbage
 .vscode-test/
+.vscode/
+
+# Ephemeral log files
+*.log
+db/*.db       
