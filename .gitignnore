@@ -2,6 +2,7 @@
 Bridge/server/node_modules/
 Analyzer/smartloganalyzer/node_modules/
 Library/node_modules/
+examples/node_modules/
 
 # Build and compilation outputs
 out/
